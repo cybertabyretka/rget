@@ -5,3 +5,5 @@ edition = "2024"
 
 [dependencies]
 clap = "4.5.35"
+console = "0.15.11"
+indicatif = "0.17.11"
